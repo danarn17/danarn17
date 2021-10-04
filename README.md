@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Danar Noverawan's card name](https://cardivo.vercel.app/api?name=Danar%20Noverawan&description=Hi,%20i%27m%20a%20developer%20and%22i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/39963063?v=4?v=4&backgroundColor=%23ecf0f1&instagram=danarn_&linkedin=Danar%20%20Noverawan&github=danarn17&twitter=danarn_&pattern=leaf&colorPattern=%23eaeaea)
+![Danar Noverawan's card name](https://cardivo.vercel.app/api?name=Danar%20Noverawan&description=Hi,%20i%27m%20a%20developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/39963063?v=4?v=4&backgroundColor=%23ecf0f1&instagram=danarn_&linkedin=Danar%20%20Noverawan&github=danarn17&twitter=danarn_&pattern=leaf&colorPattern=%23eaeaea)
 
