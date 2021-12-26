@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/danarn__"><img src="https://api.daily.dev/devcards/d1a3d5d2078346b1986b78a233375122.png?r=ahz" width="400" alt="Danar N's Dev Card"/></a>
+
 ![Danar Noverawan's card name](https://cardivo.vercel.app/api?name=Danar%20Noverawan&description=Hi,%20i%27m%20a%20developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/39963063?v=4?v=4&backgroundColor=%23ecf0f1&instagram=danarn_&linkedin=Danar%20%20Noverawan&github=danarn17&twitter=danarn_&pattern=rain&colorPattern=%23eaeaea)
 
